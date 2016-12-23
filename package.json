@@ -1,0 +1,23 @@
+{
+  "name": "hellobot",
+  "version": "1.0.0",
+  "description": "first MSFT Framework bot in Azure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merttopcu/HelloBot.git"
+  },
+  "author": "NMT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merttopcu/HelloBot/issues"
+  },
+  "homepage": "https://github.com/merttopcu/HelloBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
